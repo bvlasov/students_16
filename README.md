@@ -1,6 +1,6 @@
 Students 2016
 
-Application shows underatanding of React-Redux architecture.
+Application shows understanding of React-Redux architecture.
 
 You should work in Development mode.
 
