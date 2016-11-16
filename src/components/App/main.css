@@ -1,0 +1,15 @@
+.step {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.step > div {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.input  {
+    margin: 10px 0;
+}
